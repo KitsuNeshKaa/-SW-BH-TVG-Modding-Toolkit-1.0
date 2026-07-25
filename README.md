@@ -188,8 +188,6 @@ Documented honestly, not swept under the rug:
 
 ## 6. Credits
 
-- Unpacking approach based on
-  [KitsuNeshKaa's SW Episode III / Slayer-engine modding toolkit](https://github.com/KitsuNeshKaa/SW-EPIII-TVG-Slayer-Engine-Modding-Toolkit-1.0).
 - Every format in §3 was reverse-engineered directly from *Star Wars:
   Bounty Hunter*'s own shipped files — no format specification existed
   going in.

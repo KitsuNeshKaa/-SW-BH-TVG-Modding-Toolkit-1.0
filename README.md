@@ -107,10 +107,6 @@ symbol table), `.vfx` (effect name list), `.lgc` (see §5).
 - **Split into connected parts**: a room `.bin` can be split so each
   material/prop becomes its own object instead of one giant mesh — useful
   for isolating a specific prop, off by default.
-- A **material-audit script** (`scan_materials.py`, included) walks an
-  entire unpacked tree and reports every distinct `ShaderType` in use, for
-  extending shader support in one pass rather than chasing files one at a
-  time.
 
 ---
 

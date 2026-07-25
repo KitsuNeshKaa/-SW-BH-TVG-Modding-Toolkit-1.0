@@ -17,11 +17,6 @@ It also has known gaps, listed honestly below rather than hidden.
 This add-on only imports files that are **already unpacked** from the game's
 archives. It does not read the archive format itself.
 
-For unpacking, this project leaned on the prior modding toolkit for the
-related Slayer-engine title:
-
-**https://github.com/KitsuNeshKaa/SW-EPIII-TVG-Slayer-Engine-Modding-Toolkit-1.0**
-
 Use that toolkit (or an equivalent extractor for this engine's archive
 format) to produce a folder tree that looks like:
 
